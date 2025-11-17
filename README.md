@@ -7,7 +7,8 @@ Store, manage, and access your notes in a trustless, user-owned, and fully on-ch
 
 📸 Preview
 
-(Add your screenshot or UI image here)
+<img width="639" height="262" alt="image" src="https://github.com/user-attachments/assets/a23764f3-7e22-4b22-9917-d6be1de87d23" />
+
 
 🚀 Features
 🧱 On-Chain Architecture
@@ -65,3 +66,4 @@ cd notes-dapp-solana-program
 
 2. Install Dependencies
 npm install
+
